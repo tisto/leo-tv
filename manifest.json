@@ -1,0 +1,11 @@
+{
+  "short_name": "Leo TV",
+  "name": "Leo TV",
+  "icons": [
+    {
+      "src": "/tv.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
