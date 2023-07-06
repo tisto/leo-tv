@@ -1,12 +1,12 @@
 {
   "short_name": "Leo TV",
   "name": "Leo TV",
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "/leo-tv/?source=pwa",
+  "start_url": "/leo-tv/?source=pwa",
   "display": "standalone",
   "icons": [
     {
-      "src": "/tv.svg",
+      "src": "./tv.svg",
       "type": "image/svg+xml",
       "sizes": "512x512"
     }
